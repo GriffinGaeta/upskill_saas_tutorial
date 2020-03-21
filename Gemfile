@@ -28,7 +28,7 @@ gem 'jbuilder', '2.7.0'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 # Use Twitter Bootstrap library for front-end UI and Layout
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 
 # Use Font Awesome sass gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
